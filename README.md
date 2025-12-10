@@ -2,7 +2,7 @@
 
   ### 🤔 Quem sou eu?
   Meu nome é Leonardo e sou graduando de Sistemas de Informação na Universidade Federal de Goiás.
-- 🌱 Atualmente estou aprendendo integração Full-stack e TypeScript.
+- 🌱 Atualmente estou trabalhando na construção de LLMs para coding e process em Engenharia de Software (AI4SE) no Centro de Excelência em IA (CEIA).
 - ⚡ Fato curioso: Ganhei prata nacional e ouro regional competindo pelo Brasil na olimpiada internacional francesa Mathématiques sans Frontières.
 
 ## 🌟 Tecnologias que eu trabalho
@@ -11,10 +11,12 @@
 - JavaScript
 - Linguagem C
 - Git e Github
-- Node.js
 - Python
+- Google Colab
+- Jupyter Notebook 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50px"/>
+          
 
 ## ↗️Status do meu perfil
 
