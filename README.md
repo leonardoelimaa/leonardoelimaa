@@ -2,18 +2,20 @@
 
   ### 🤔 Quem sou eu?
   Meu nome é Leonardo e sou graduando de Sistemas de Informação na Universidade Federal de Goiás.
-- 🌱 Atualmente estou trabalhando na construção de LLMs para coding e process em Engenharia de Software (AI4SE) no Centro de Excelência em IA (CEIA).
+- 🌱 Atualmente estou trabalhando na construção de LLMs para tests and validation em Engenharia de Software (AI4SE) no Centro de Excelência em IA (CEIA).
 - ⚡ Fato curioso: Ganhei prata nacional e ouro regional competindo pelo Brasil na olimpiada internacional francesa Mathématiques sans Frontières.
 
 ## 🌟 Tecnologias que eu trabalho
+- Python
+- Git e Github
+- Langchain
+- CrewAI
+- Google Colab
+- Jupyter Notebook 
 - HTML
 - CSS
 - JavaScript
 - Linguagem C
-- Git e Github
-- Python
-- Google Colab
-- Jupyter Notebook 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50px"/>
           
